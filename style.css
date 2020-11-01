@@ -1,0 +1,107 @@
+@charset "windows-1250";
+<style type="text/css">           
+           <!--
+		  body {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size : 10pt;
+            color : #494949;
+            }
+			
+			
+            a {text-decoration: none; color: #502490}
+            a:visited {color: #502490;}
+            a:hover {text-decoration: underline; color: #502490}
+           
+		    .small {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 8pt;
+            color: #a0a0a0;}
+			a {text-decoration: none; color: #a0a0a0}
+            a:visited {color: #a0a0a0;}
+            a:hover {text-decoration: underline; color: #502490}
+           
+		   
+		    .big {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 18pt;
+            font-weight : bold;
+            color: #000080;
+            }
+			
+			.bigm {
+            font-family:Arial, Helvetica, sans-serif;
+            font-size: 20pt;
+            font-weight : bold;
+            color: #ffffff;
+            }
+			
+           h1 {
+            font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+            font-size : 10pt;
+            line-height : 18pt;
+            color : #494949;
+            font-weight : bold;
+            font-style : italic;
+            }
+            
+            p.uvod {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size : 10pt;
+            line-height : 18pt;
+            color : #494949;
+            }
+            
+            p {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size : 10pt;
+            color : #494949;
+            }
+            li {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size : 10pt;
+            color : #494949;
+            }  
+            
+            .under {
+            font-family: Arial, Helvetica, sans-serif;
+            font-size : 10pt;
+            color : #494949;
+            font-weight : bold;
+            font-style : italic;
+            text-decoration : underline;
+            }
+            
+            .main {
+           	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+           	font-size : 8pt;
+			font-weight : bold;
+           	text-align: left;
+           }
+		   
+		    .cmain {
+           	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+           	font-size : 8pt;
+			font-weight : bold;
+			text-align: left;
+			color : #502490;
+           }
+		   
+            .nadpis {
+           	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+           	font-size: 8pt;
+           	text-align: center;
+           	font-weight: bold;
+           }
+            .nadpisx {
+           	font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+           	font-size: 8pt;
+
+            
+            
+            .datum {
+            font-family: Verdana, Geneva, Arial, Helvetica, sans-serif;
+            font-size: 8pt;
+            color: #494949;
+            }
+           -->
+           </style>

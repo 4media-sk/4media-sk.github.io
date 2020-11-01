@@ -11,7 +11,7 @@ window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),b&&0<
 window.JOT_removeAllListenersForName=function(c){for(var a=0;a<m.length;a++)m[a].eventName==c&&m.splice(a,1)};window.JOT_postEvent=function(c,a,b){var e={eventName:c,eventSrc:a||{},payload:b||{}};if(window.JOT_fullyLoaded)for(a=m.length,b=0;b<a&&b<m.length;b++){var f=m[b];f&&f.eventName==c&&(e.listenerCompId=f.compId||d,(f=typeof f.handler==h?f.handler:window[f.handler])&&f(e))}else window.JOT_delayedEvents.push({eventName:c,eventSrc:a,payload:b})};window.JOT_delayedEvents=[];
 window.JOT_fullyLoaded=!1;window.JOT_formatRelativeToNow=function(c,a){var b=((new Date).getTime()-c)/6E4;if(1440<=b||0>b)return null;var e=0;60<=b&&(b/=60,e=2);2<=b&&e++;return a?window.JOT_siteRelTimeStrs[e].replace(g,Math.floor(b)):window.JOT_userRelTimeStrs[e].replace(g,Math.floor(b))}; })()
 </script>
-<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/88fed5/system/app/pagetypes/startpage/startpage.css" />
+<link rel="stylesheet" type="text/css" href="https://www.gstatic.com/sites/p/88fed5/system/app/pagetypes/startpage/startpage.css" />
 <script>
 
   
@@ -42,7 +42,7 @@ window.JOT_fullyLoaded=!1;window.JOT_formatRelativeToNow=function(c,a){var b=((n
 <meta property="og:title" content="www.4media.sk" />
 <style type="text/css">
 </style>
-<link rel="stylesheet" type="text/css" href="http://www.gstatic.com/sites/p/88fed5/system/app/themes/simplywhite/standard-css-simplywhite-ltr-ltr.css" />
+<link rel="stylesheet" type="text/css" href="https://www.gstatic.com/sites/p/88fed5/system/app/themes/simplywhite/standard-css-simplywhite-ltr-ltr.css" />
 <link rel="stylesheet" type="text/css" href="overlay.css?cb=simplywhite150goog-ws-none" />
 <link rel="stylesheet" type="text/css" href="camelot/allthemes-view.css" />
 <!--[if IE]>
@@ -121,7 +121,7 @@ window.JOT_fullyLoaded=!1;window.JOT_formatRelativeToNow=function(c,a){var b=((n
 <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
     window.jstiming.load.tick('sjl');
   </script>
-<script xmlns="http://www.w3.org/1999/xhtml" src="http://www.gstatic.com/sites/p/88fed5/system/js/jot_min_startpage__en.js"></script>
+<script xmlns="http://www.w3.org/1999/xhtml" src="https://www.gstatic.com/sites/p/88fed5/system/js/jot_min_startpage__en.js"></script>
 <script xmlns="http://www.w3.org/1999/xhtml" type="text/javascript">
                 JOT_postEvent('moduleLoad');
               </script>
